@@ -1,7 +1,7 @@
 # celebrity
 
 A new Flutter project.
-
+![The San Juan Mountains are beautiful!](https://i.postimg.cc/mrDCGW7M/Screenshot-2023-04-09-12-36-27-410-com-example-celebrity.jpg "San Juan Mountains")
 ## Getting Started
 
 This project is a starting point for a Flutter application.
