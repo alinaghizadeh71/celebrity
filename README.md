@@ -1,17 +1,9 @@
-# celebrity
+# Celebrity!
 
-A new Flutter project.
-![The San Juan Mountains are beautiful!](https://i.postimg.cc/tRwssVWs/Screenshot-2023-04-09-12-39-44-623-com-example-celebrity.jpg "San Juan Mountains")
-![The San Juan Mountains are beautiful!](https://i.postimg.cc/XX6NQdkx/Screenshot-2023-04-09-12-39-53-021-com-example-celebrity.jpg "San Juan Mountains")
-## Getting Started
+| 1  | 2 | 3 |
+| ------------- | ------------- | ------------- |
+|<img src="https://github.com/alinaghizadeh71/celebrity/assets/16202692/ed96ca92-b765-4db0-954e-0dc1eb07190b" width="200" height="400"/>|<img src="" height="400"/>|<img src="https://github.com/alinaghizadeh71/celebrity/assets/16202692/55e9bd45-1b14-4039-9d88-31c358324c24" width="200" height="400"/>|<img src="https://github.com/alinaghizadeh71/Arbika/assets/16202692/059bfa05-191e-49bb-aa67-a3f18d9a9dd4" width="200" height="400"/>
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
